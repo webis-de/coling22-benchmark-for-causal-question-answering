@@ -1,3 +1,3 @@
 # A Benchmark for Causal Question Answering
 
-Dataset can be accessed from [[dataset](https://webis.de/data.html#webis-causalqa-22)]
+Code and data will be published together with the CR paper version.
