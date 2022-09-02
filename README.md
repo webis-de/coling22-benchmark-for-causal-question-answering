@@ -4,6 +4,8 @@ Code and data will be finalized closer to the conference.
 
 ### Data
 
+Webis-CausalQA-22 [download](https://webis.de/data.html?q=webis-causalqa-22)
+
 | Dataset           | Source                                  | License                                    | License type                 |
 |:------------------|:----------------------------------------|:-------------------------------------------|:-----------------------------|
 |`PAQ`              |https://github.com/facebookresearch/PAQ  |https://github.com/facebookresearch/PAQ#data-license |CC BY-SA 3.0         |
