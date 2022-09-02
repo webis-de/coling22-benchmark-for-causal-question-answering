@@ -17,5 +17,6 @@ Code and data will be finalized closer to the conference.
 |`HotpotQA`         |https://hotpotqa.github.io/              |same                                                 |CC BY-SA 4.0         |
 |`TriviaQA`         |https://nlp.cs.washington.edu/triviaqa/index.html |same                                        |No information       |
 
-`ELI5` is also available in Hugging Face https://huggingface.co/datasets/eli5 (was used) that contains a script for downloading the data. This blog post provides a guide of how to download the data as well: https://yjernite.github.io/lfqa.html
+`ELI5` is also available in Hugging Face https://huggingface.co/datasets/eli5 (was used) that contains a script for downloading the data. This blog post provides a guide of how to download the data as well: https://yjernite.github.io/lfqa.html.
+
 Use the [regex rules](rules/causal-rules.ipynb) to identify causal questions.
