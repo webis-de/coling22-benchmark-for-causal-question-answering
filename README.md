@@ -2,8 +2,8 @@
 
 Code and data will be finalized closer to the conference.
 
-# Data
+### Data
 
-| Dataset           | Source       | License                                                  | License type
-|:----------------------------|:-----------|:-------------------------------------------------------------|
+| Dataset   | Source          | License                                                  | License type     |
+|:----------------------------|:-----------|:-------------------------------------------|:------------------|
 | `PAQ`     | https://github.com/facebookresearch/PAQ    |https://github.com/facebookresearch/PAQ#data-license | CC BY-SA 3.0               |
