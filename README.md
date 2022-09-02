@@ -14,7 +14,7 @@ The 10 datasets used to construct Webis-CausalQA-22 corpus:
 |`GooAQ`            |https://github.com/allenai/gooaq/        |https://github.com/allenai/gooaq/blob/main/LICENSE   |Apache License V. 2.0|
 |`MS MARCO`         |https://microsoft.github.io/msmarco/     |same as source                                       |Own Terms            |
 |`Natural Questions`|https://ai.google.com/research/NaturalQuestions/download |same as source                       |CC BY-SA 3.0         |
-|`ELI5`             |https://github.com/facebookresearch/ELI5 or https://huggingface.co/datasets/eli5 (was used)|same as source |Hosting not allowed |
+|`ELI5`             |https://github.com/facebookresearch/ELI5 or https://huggingface.co/datasets/eli5 (used)|same as source |Hosting not allowed |
 |`SearchQA`         |https://github.com/nyu-dl/dl4ir-searchQA |same as source                                       |No information       |
 |`SQuAD 2.0`        |https://rajpurkar.github.io/SQuAD-explorer/ |same as source                                    |CC BY-SA 4.0         |
 |`NewsQA`           |https://github.com/Maluuba/newsqa        |same as source                                       |Own Terms            |
