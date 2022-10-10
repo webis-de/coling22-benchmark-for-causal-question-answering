@@ -21,6 +21,18 @@ The 10 datasets used to construct Webis-CausalQA-22 corpus:
 |`HotpotQA`         |https://hotpotqa.github.io/              |same as source                                       |CC BY-SA 4.0         |
 |`TriviaQA`         |https://nlp.cs.washington.edu/triviaqa/index.html |same as source                              |No information       |
 
-`ELI5` is also available in Hugging Face https://huggingface.co/datasets/eli5 (was used) that contains a script for downloading the data. This blog post provides a guide of how to download the data as well: https://yjernite.github.io/lfqa.html.
+`ELI5` is also available in Hugging Face https://huggingface.co/datasets/eli5 that contains a script for downloading the data. This blog post provides a guide of how to download the data as well: https://yjernite.github.io/lfqa.html (was used).
+
+*Example to obtain the `ELI5` data*
+
+```
+pip install nlp
+
+import nlp
+eli5 = nlp.load_dataset('eli5')
+
+train_set = eli5['train_eli5']
+val_set = eli5['validation_eli5']
+```
 
 Use the [regex rules](rules/causal-rules.ipynb) to identify causal questions.
