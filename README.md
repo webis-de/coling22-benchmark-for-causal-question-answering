@@ -4,7 +4,7 @@ Code and data will be finalized closer to the conference.
 
 ### Data
 
-You can [download](https://webis.de/data.html?q=webis-causalqa-22) the Webis-CausalQA-22 corpus. To recreate the ELI5 part, check instructions bellow.
+You can [download](https://webis.de/data#webis-causalqa-22) the Webis-CausalQA-22 corpus. To recreate the ELI5 part, check instructions bellow.
 
 The 10 datasets used to construct Webis-CausalQA-22 corpus:
 
