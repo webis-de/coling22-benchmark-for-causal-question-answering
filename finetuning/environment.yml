@@ -1,0 +1,17 @@
+name: causalqa
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - cudatoolkit=11.6
+  - datasets=2.4.0
+  - pandas=1.4.3
+  - pip
+  - python=3.9.12
+  - pytorch=1.12.1=py3.9_cuda11.6_cudnn8.3.2_0
+  - transformers=4.21.1
+  - tqdm=4.64.0
+  - sentencepiece=0.1.96
+  - pip:
+    - rouge-score==0.1.2
